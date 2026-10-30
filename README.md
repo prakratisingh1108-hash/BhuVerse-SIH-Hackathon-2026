@@ -38,3 +38,11 @@ git clone https://github.com/prakratisingh1108-hash/BhuVerse-SIH-Hackathon-2026.
 cd BhuVerse-SIH-Hackathon-2026
 npm install
 npm start
+
+### 👥 Team BhuVerse - Team ID: 121110
+- Prateek Singh - Team Leader
+- [Prakrati Singh]
+- [Nashra Naaz]
+- [Puruskrit Dixit]
+- [Preet Sharma]
+- [Oshank Singh]
