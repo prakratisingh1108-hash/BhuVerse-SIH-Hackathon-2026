@@ -48,4 +48,4 @@ npm start
 - [Oshank Singh]
 
 ##youtube 🔗 
-https://youtu.be/shhEzsSawfU?si=5i45HK4WYRDX5NaM
+https://youtube/shhEzsSawfU?si=5i45HK4WYRDX5NaM
